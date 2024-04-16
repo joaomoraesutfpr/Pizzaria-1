@@ -21,3 +21,9 @@ Este é um projeto de uma pizzaria online desenvolvido utilizando HTML, PHP e CS
 - *Página de Produtos*: Exibe uma lista de pizzas disponíveis para compra.
 
 - *Página de Compras*: Permite aos usuários adicionar itens ao carrinho e finalizar a compra.
+
+  ## Detalhes do Desenvolvimento:
+- *João*: Criação dos layouts em HTML para organizar os conteúdos, a estilização com CSS e uso de Bootstrap para a interface.
+- *Lucas*: Implementou a autenticação de usuários e validação de dados utilizando PHP.
+
+-  *Funcionalidades faltantes*: Ainda não está implementado a realização do pedido.
