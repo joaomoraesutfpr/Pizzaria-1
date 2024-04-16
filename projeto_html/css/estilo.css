@@ -60,14 +60,12 @@
     animation-delay: 13s;
 }
 
-/* ----------------------------------------------------------------- */
-
 .al {
-    font-family: 'Sacramento', cursive;
+    font-family: Georgia, "Times New Roman", Times, serif;
     text-align: justify;
-    font-size: 32px;
+    font-size: 25px;
     font-weight: normal;
-    overflow-y: hidden;
+    font-style: italic;
 }
 
 nav {
