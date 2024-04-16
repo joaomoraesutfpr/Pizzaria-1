@@ -50,11 +50,10 @@ if (!isset($_SESSION['user_name'])) {
 
         <img id="gif" src="../imagens/giphy.gif" />
 
-        <h3 class="al">
-            <br /><br />Olá <?php echo $_SESSION['user_name']?> Na Pizzaria Delícia estamos aqui para
+       <h3 class="al">
+            <br /><br />Olá <?php echo $_SESSION['user_name'] ?>! Na Pizzaria Delícia estamos aqui para
             fazer você feliz há mais de 25 anos. Nossa missão é simples:
-            proporcionar a melhor experiência gastronômica da cidade. Faça seu
-            <a href="./login_form.php">Login</a> e venha
+            proporcionar a melhor experiência gastronômica da cidade. Venha
             <a href="./pedido.php">Realizar seu Pedido</a> conosco. Acesse já o
             nosso <a href="./cardapio.php">Cardápio</a> e fique por dentro das
             novidades!
