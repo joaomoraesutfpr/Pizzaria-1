@@ -20,8 +20,6 @@ if (!isset($_SESSION['user_name'])) {
     <link rel="shortcut icon" href="../imagens/pizza.ico" />
     <link rel="stylesheet" href="../css/bootstrap.min.css" />
     <link rel="stylesheet" href="../css/estilo.css" />
-    <link href="https://fonts.googleapis.com/css?family=Dancing+Script|Pacifico|Sacramento|Satisfy|Parisienne"
-        rel="stylesheet" />
 </head>
 
 <body>
